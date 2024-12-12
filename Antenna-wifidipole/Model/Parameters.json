@@ -1,0 +1,29 @@
+{
+    "parameters": [
+        {
+            "descr": "Radius of Dipole",
+            "expr": "1.5",
+            "name": "R",
+            "value": "1.5"
+        },
+        {
+            "descr": "Length of Dipole",
+            "expr": "62.46",
+            "name": "L",
+            "value": "62.46"
+        },
+        {
+            "descr": "Length  of  Feed",
+            "expr": "10",
+            "name": "F",
+            "value": "10"
+        },
+        {
+            "descr": "Input Impedence",
+            "expr": "73",
+            "name": "Z",
+            "value": "73"
+        }
+    ],
+    "version": 1
+}

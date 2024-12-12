@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2020.4 - Mar 20 2020 - ACIS 29.0.1 - Student Edition
+[Author]
+Dell
+[Mesh Cells]
+23,716
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:antenna-wifidipole.cst?e96864d709b14b9167a16e4b390c882e?32652:numberofparameters=4:port=1>mode=1>zre=0>zim=0:::f?l?r?z
+[Comment]
