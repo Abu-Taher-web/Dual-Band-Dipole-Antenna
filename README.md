@@ -1,7 +1,7 @@
 <div align="center">  
 <h1 align="center">  
  <img src="images/dipole_antenna.gif" alt="App Icon" width="300">  
-<br>Dual-Band-Dipole-Antenna</h1>  
+<br>📡 Dual-Band-Dipole-Antenna</h1>  
 </div> 
 
 ## ✨ Design Optimization  
